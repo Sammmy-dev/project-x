@@ -21,7 +21,7 @@ Generated with [dbdiagram.io](https://dbdiagram.io/d/project-x-680294791ca52373f
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/project-x.git
+git clone https://github.com/Sammmy-dev/project-x
 cd project-x
 ```
 
@@ -103,17 +103,9 @@ Response:
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
 ## ✍️ Author
 
-Ajiboye Samuel (https://github.com/sammmy_dev)
+Ajiboye Samuel (https://github.com/Sammmy-dev)
 
 ---
-
-Ready to build with clarity. For any questions, feel free to reach out!
 
